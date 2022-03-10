@@ -1,0 +1,400 @@
+
+
+
+
+.first .fightPage1 h1{
+    color: rgb(8, 148, 167);
+    border: 3px solid rgb(241, 182, 222);
+    border-radius:15%;
+    background-color: rgb(224, 186, 247);
+    height: 100px;
+    width: 250px;
+    font-size:50px;
+    text-align:center;
+    display: inline-block;
+    font-family: 'MizuFontAlphabet', sans-serif;
+    padding:10px 10px;
+    position:absolute;
+    left:10px;
+    top:-20px;
+    }
+
+    .first .codePage1 h1{
+        color: rgb(8, 148, 167);
+        border: 3px solid rgb(241, 182, 222);
+        border-radius:15%;
+        background-color: rgb(224, 186, 247);
+        height: 100px;
+        width: 250px;
+        font-size:50px;
+        text-align:center;
+        padding-bottom: 8px;
+        font-family: 'MizuFontAlphabet', sans-serif;
+        margin-left: 60px;
+        padding:10px 10px;
+        position:absolute;
+        left:500px;
+        top:-20px;
+        }
+
+        .first .workPage1 h1{
+            color: rgb(8, 148, 167);
+            border: 3px solid rgb(241, 182, 222);
+            border-radius:15%;
+            background-color: rgb(224, 186, 247);
+            position:absolute;
+            left:1095px;
+            top:0px;
+            margin-top: 10px;
+            height: 100px;
+            width: 250px;
+            font-size:50px;
+            text-align:center;
+            padding-bottom: 8px;
+            font-family: 'MizuFontAlphabet', sans-serif;
+            margin-left: 60px;
+            padding:10px 10px;
+            }
+    
+    
+    .first{
+    background-image:url("Background4.jpg");
+    min-height: 740px;
+    max-height:1500px;
+    min-width:1420px;
+    }
+
+
+
+    #linkfight{
+        margin-left:7px;
+        font-family: 'Draconian Typewriter', sans-serif;
+        color:rgb(224, 186, 247);
+        text-align:left;
+        width: 200px;
+        height: 560px;
+        border: 5px solid rgb(177, 106, 187);
+        border-style:outset;
+        position:absolute;
+        top:150px;
+        left:30px;
+        }
+
+        #linkcode{
+            font-family: 'Draconian Typewriter', sans-serif;
+            color:rgb(224, 186, 247);
+            width: 200px;
+            height: 560px;
+            border: 5px solid rgb(238, 130, 204);
+            border-style:outset;;
+            position:absolute;
+            left:590px;
+            top:150px;
+            
+            }
+
+    #linkwork{
+                font-family: 'Draconian Typewriter', sans-serif;
+                color:rgb(224, 186, 247);
+                width: 200px;
+                height: 560px;
+                border: 5px solid rgb(133, 41, 104);
+                border-style:outset;;
+                position:absolute;
+                left:1190px;
+                top:150px;
+                
+                }
+
+    #boxer{
+        position:absolute;
+        left:50px;
+        top:400px;
+        height: 350px;
+        width:200px;
+    }
+
+    #worker{
+        position:absolute;
+        top:430px;
+        left:560px;
+        height: 300px;
+        width:250px;
+    }
+
+    #computer1{
+        position: absolute;
+        left: 1240px;
+        top:530px;
+        height: 200px;
+        width:130px;
+    }
+
+    
+    
+    
+    
+     /*--------->FIGHTING PAGE<----------*/ 
+    
+    main .fighter{
+        background-image:url("Boxing\ Background.png");
+        background-size:contain;
+        background-position:center;
+        overflow:scroll;
+    }
+
+    .fighter h1{
+        color:rgb(0, 255, 21);
+        border: 3px solid rgb(0, 255, 21);
+        border-radius:10%;
+        background-color: #2f2577dc;
+        position:absolute;
+        top:720px;
+        font-size: 40px;
+        margin-right:10px;
+        font-weight:bold;
+        width: 100%;
+        text-align:center;
+        padding-bottom: 8px;
+        font-family: 'MizuFontAlphabet', sans-serif;
+    }
+
+    .fighter th{
+        color:rgb(0, 247, 255);
+        font-size:25px;
+        border: 3px solid #c4205f;
+        width: 200px;
+        border-radius:15%;
+        background-color:#641164;
+        font-family: 'SF Pixelate', sans-serif;
+
+
+    }
+    .fighter td{
+        color: rgb(0, 247, 255);
+        border: 5px solid #c4205f;
+        background-color:#64116467;
+        border-radius:5%;
+        font-family: 'SF Pixelate', sans-serif;
+        text-align: center;
+        overflow: scroll;
+        margin-left:400px;
+        margin-top: 100px;
+    }
+    .fighter .value{
+        color:#d8b517;
+        background-color: #2f2577dc;
+        border-color:#d8b517;
+        position:relative;
+        left:410px;
+        top: 150px;
+    }
+    .fighter .trait{
+        color:#19abd8;
+        background-color: #2f2577dc;
+        border-color:#19abd8;
+        font-size: 30px;
+        position:relative;
+        left:410px;
+        top: 150px;
+    }
+
+        .fighter .accolade{
+            background-color:#2f2577dc;
+            color:#f10014;
+            border-color:red;
+            position: relative;
+            top:150px;
+            left:410px;
+           
+        }
+        
+
+    .fighter #traitTitle{
+        font-size: 25px
+    }
+    .fighter .LittleMac{
+        position:relative;
+        top: 120px;;
+        left:560px;
+    }
+
+
+    .fighter .fightSummary{
+        color:rgb(0, 255, 21);
+        font-size:50px;
+        font-family: 'SF Pixelate', sans-serif;
+        border: 5px solid purple;
+        background-color:#2f2577dc;
+        border-color:rgb(0, 255, 21);
+        text-align:center;
+        border-radius:5%;
+        position:relative;
+        top:150px;
+        }
+
+    
+     /*--------->END OF FIGHTING PAGE<----------*/ 
+    
+    
+    
+    
+    /*--------->CODING PAGE<----------*/ 
+
+    #coder{
+        background-image:url("GifBackground.gif");
+        text-align:center;
+        background-size:100%;
+        overflow: scroll;
+    }
+    
+    
+    #coder .codeheader{
+        font-family: 'Ancient Geek', sans-serif;
+        color: #f8fdb7;
+        position: relative;
+        left:430px;
+    }
+    #coder #codeHeader2 {
+        position:relative;
+        left:30px !important; 
+    }
+    #coder #pageHeader{
+        font-size:60px;
+        color:#f8fdb7;
+        border: 7px solid ;
+        width: 300px;
+        margin-left: 130px;
+        padding:19px;
+        border-radius: 0%;
+        background-color: rgba(128, 0, 128, 0.26);
+        
+    }
+
+    #coder .codeli{
+        text-align:left;
+        color: #f8fdb7;
+        border: 5px solid;
+        width:300px;
+        height:50px;
+        margin-bottom:5px;
+        font-size:30px;
+        font-family: 'Ancient Geek', sans-serif;
+        text-align: center;
+        background-color:rgba(128, 0, 128, 0.377);
+        position: relative;
+        left:540px;
+        
+    }
+
+    #coder .codeli:hover{
+        color:purple;
+        background-color:#f8fdb75d; 
+    }
+
+    #coder .col1{
+       margin-left:-100px;
+       margin-top: 210px;
+    }
+    #coder .col2{
+        margin-left: 140px;
+        margin-right:-100px
+    }
+
+    #coder .codeAble{
+        margin-top: -770px;
+        color: #f8fdb7;
+        font-family: 'Ancient Geek', sans-serif;
+        text-decoration:double;
+        background-color:rgba(128, 0, 128, 0.39);
+        border:3px solid;
+        width: 500px;
+        margin-left:20px;
+        font-size:50px;
+        height:60px;
+        padding-top: 20px;
+    }
+
+    #coder .codeSpeech{
+        width: 190px;
+        height:560px;
+        color:#f8fdb7;
+        font-size: 18px;
+        font-family: 'Draconian Typewriter', sans-serif;
+        background-color:rgba(128, 0, 128, 0.582);
+        border: 3px solid;
+        margin-left: 160px;
+        margin-top: 80px;
+        text-align: left;
+    }
+
+    #coder .li2{
+        margin-top: 50px;
+    }
+
+    #coder .li3{
+        margin-top: 50px;
+    }
+
+     /*--------->END OF CODING PAGE<----------*/ 
+
+
+
+
+      /*--------->WORKING PAGE<----------*/ 
+
+      #work{
+          background-image:url("Work\ Background1.gif");
+        min-height: 700px;
+        }
+
+    
+    #work .workHead{
+        color: rgb(150, 114, 250);
+        background-color:salmon;
+        border:5px solid rgb(150, 114, 250);
+        border-radius:20%;
+        width:1050px;
+        position: absolute;
+        left: 250px;
+        height: 50px;
+        font-size: 50px;
+        font-family: 'Some bubbles', sans-serif;
+        text-align:center;
+        padding-top:20px;
+        padding-bottom:20px;                                       
+    }
+
+    #work .list1{
+        color: rgb(150, 114, 250);
+        background-color:salmon;
+        border:5px solid rgb(150, 114, 250);
+        border-radius:20%;
+        width:250px;
+        height: 50px;
+        font-size: 20px;
+        font-family: 'Draconian Typewriter', sans-serif;
+        text-align:center;
+        padding-top:20px;
+        padding-bottom:20px; 
+        position: absolute;
+        left: 500px;
+        
+    }
+
+
+    #work .list2{
+        color: rgb(150, 114, 250);
+        background-color:salmon;
+        border:5px solid rgb(150, 114, 250);
+        border-radius:20%;
+        width:250px;
+        height: 50px;
+        font-size: 20px;
+        font-family: 'Draconian Typewriter', sans-serif;
+        text-align:center;
+        padding-top:20px;
+        padding-bottom:20px; 
+        position: absolute;
+        left: 300px;
+    }
