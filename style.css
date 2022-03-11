@@ -5,22 +5,22 @@
 }
 
 
-
 .first .fightPage1 h1{
     color: rgb(8, 148, 167);
     border: 3px solid rgb(241, 182, 222);
     border-radius:15%;
     background-color: rgb(224, 186, 247);
-    height: 100px;
+    height: 50px;
     width: 250px;
-    font-size:50px;
+    font-size:40px;
     text-align:center;
     display: inline-block;
-    font-family: 'MizuFontAlphabet', sans-serif;
+    font-family:'Bungee Shade', cursive;
     padding:10px 10px;
-    position:absolute;
+    position:relative;
     left:10px;
     top:-20px;
+    padding: 30px 10px;
     }
 
     .first .codePage1 h1{
@@ -33,7 +33,7 @@
         font-size:50px;
         text-align:center;
         padding-bottom: 8px;
-        font-family: 'MizuFontAlphabet', sans-serif;
+        font-family: 'Bungee Shade', cursive;
         margin-left: 60px;
         padding:10px 10px;
         position:absolute;
@@ -55,7 +55,7 @@
             font-size:50px;
             text-align:center;
             padding-bottom: 8px;
-            font-family: 'MizuFontAlphabet', sans-serif;
+            font-family: 'Bungee Shade', cursive;
             margin-left: 60px;
             padding:10px 10px;
             }
@@ -73,6 +73,7 @@
     #linkfight{
         margin-left:7px;
         font-family:'Special Elite', cursive;
+        font-weight:bolder;
         font-size: large;
         line-height: 50px;
         color:rgb(224, 186, 247);
@@ -89,6 +90,7 @@
         #linkcode{
             font-family: 'Special Elite', cursive;
             font-size:large;
+            font-weight:bolder;
             line-height:50px;
             color: rgb(224, 186, 247);
             width: 200px;
@@ -102,7 +104,9 @@
             }
 
     #linkwork{
-                font-family: 'Draconian Typewriter', sans-serif;
+                font-family: 'Special Elite', cursive;
+                line-height: 50px;
+                font-weight:bolder;
                 color:rgb(224, 186, 247);
                 width: 200px;
                 height: 560px;
@@ -169,12 +173,14 @@
 
     .fighter th{
         color:rgb(0, 247, 255);
-        font-size:25px;
+        font-size:45px;
+        font-style:bolder;
         border: 3px solid #c4205f;
         width: 200px;
         border-radius:15%;
         background-color:#641164;
-        font-family: 'SF Pixelate', sans-serif;
+        font-family: 'VT323', monospace;
+
 
 
     }
@@ -183,7 +189,9 @@
         border: 5px solid #c4205f;
         background-color:#64116467;
         border-radius:5%;
-        font-family: 'SF Pixelate', sans-serif;
+        font-family: 'VT323', monospace;
+        font-size: large;
+        font-style:bold;
         text-align: center;
         overflow: scroll;
         margin-left:400px;
@@ -231,7 +239,7 @@
     .fighter .fightSummary{
         color:rgb(0, 255, 21);
         font-size:50px;
-        font-family: 'SF Pixelate', sans-serif;
+        font-family: 'VT323', monospace;
         border: 5px solid purple;
         background-color:#2f2577dc;
         border-color:rgb(0, 255, 21);
