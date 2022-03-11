@@ -15,7 +15,7 @@
     font-size:40px;
     text-align:center;
     display: inline-block;
-    font-family:'Bungee Shade', cursive;
+    font-family:'Bungee Shade';
     padding:10px 10px;
     position:relative;
     left:10px;
@@ -33,7 +33,7 @@
         font-size:50px;
         text-align:center;
         padding-bottom: 8px;
-        font-family: 'Bungee Shade', cursive;
+        font-family: 'Bungee Shade';
         margin-left: 60px;
         padding:10px 10px;
         position:absolute;
@@ -55,7 +55,7 @@
             font-size:50px;
             text-align:center;
             padding-bottom: 8px;
-            font-family: 'Bungee Shade', cursive;
+            font-family: 'Bungee Shade';
             margin-left: 60px;
             padding:10px 10px;
             }
@@ -72,7 +72,7 @@
 
     #linkfight{
         margin-left:7px;
-        font-family:'Special Elite', cursive;
+        font-family:'Special Elite', ;
         font-weight:bolder;
         font-size: large;
         line-height: 50px;
@@ -88,7 +88,7 @@
         }
 
         #linkcode{
-            font-family: 'Special Elite', cursive;
+            font-family: 'Special Elite',;
             font-size:large;
             font-weight:bolder;
             line-height:50px;
@@ -104,7 +104,7 @@
             }
 
     #linkwork{
-                font-family: 'Special Elite', cursive;
+                font-family: 'Special Elite';
                 line-height: 50px;
                 font-weight:bolder;
                 color:rgb(224, 186, 247);
