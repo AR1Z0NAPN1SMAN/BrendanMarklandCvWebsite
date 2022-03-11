@@ -73,6 +73,8 @@
     #linkfight{
         margin-left:7px;
         font-family:'Special Elite', cursive;
+        font-size: large;
+        line-height: 50px;
         color:rgb(224, 186, 247);
         text-align:left;
         width: 200px;
@@ -85,8 +87,10 @@
         }
 
         #linkcode{
-            font-family: 'Draconian Typewriter', sans-serif;
-            color:rgb(224, 186, 247);
+            font-family: 'Special Elite', cursive;
+            font-size:large;
+            line-height:50px;
+            color: rgb(224, 186, 247);
             width: 200px;
             height: 560px;
             border: 5px solid rgb(238, 130, 204);
